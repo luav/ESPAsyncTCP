@@ -1,7 +1,9 @@
 # ESPAsyncTCP 
-[![Build Status](https://travis-ci.org/me-no-dev/ESPAsyncTCP.svg?branch=master)](https://travis-ci.org/me-no-dev/ESPAsyncTCP) ![](https://github.com/me-no-dev/ESPAsyncTCP/workflows/ESP%20Async%20TCP%20CI/badge.svg)
+<!-- [![Build Status](https://travis-ci.org/me-no-dev/ESPAsyncTCP.svg?branch=master)](https://travis-ci.org/me-no-dev/ESPAsyncTCP) ![](https://github.com/me-no-dev/ESPAsyncTCP/workflows/ESP%20Async%20TCP%20CI/badge.svg) -->
 
 ### Async TCP Library for ESP8266 Arduino
+
+This is fork is made to support `gd32v` platform (e.g., [wio_lite_risc-v_esp8266](https://wiki.seeedstudio.com/Wio_Lite_RISC_V_GD32VF103_with_ESP8266/)) based ESP8266 devices.
 
 For ESP32 look [HERE](https://github.com/me-no-dev/AsyncTCP)
 
